@@ -10,7 +10,7 @@
     {
       "name": "coven-of-combat-spells",
       "label": "Coven of Combat - Spells",
-      "path": "packs/coven-of-combat",
+      "path": "packs/coven-of-combat-spells",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -21,7 +21,7 @@
     {
       "name": "coven-of-combat-items",
       "label": "Coven of Combat - Items",
-      "path": "packs/coven-of-combat",
+      "path": "packs/coven-of-combat-items",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -32,7 +32,7 @@
     {
       "name": "coven-of-combat-feats",
       "label": "Coven of Combat - Feats",
-      "path": "packs/coven-of-combat",
+      "path": "packs/coven-of-combat-feats",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -43,7 +43,7 @@
     {
       "name": "coven-of-combat-class-features",
       "label": "Coven of Combat - Class Features",
-      "path": "packs/coven-of-combat",
+      "path": "packs/coven-of-combat-features",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -54,7 +54,7 @@
     {
       "name": "coven-of-combat-actions",
       "label": "Coven of Combat - Actions",
-      "path": "packs/coven-of-combat",
+      "path": "packs/coven-of-combat-actions",
       "type": "Item",
       "system": "pf2e",
       "ownership": {
@@ -103,7 +103,7 @@
   },
   "authors": [
     {
-      "name": "Brian Brunson",
+      "name": "Bryn Brunson",
 	  "name": "Vasco Duarte"
     }
   ],
@@ -116,6 +116,6 @@
     ]
   },
   "url": "https://github.com/VascoRodriguesDuarte/coven-of-combat",
-  "manifest": "???",
-  "download": "???"
+  "manifest": "https://raw.githubusercontent.com/VascoRodriguesDuarte/coven-of-combat/refs/heads/master/module.json",
+  "download": "https://github.com/VascoRodriguesDuarte/coven-of-combat/archive/refs/heads/master.zip"
 }

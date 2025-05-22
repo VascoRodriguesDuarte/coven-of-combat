@@ -1,3 +1,5 @@
-2025/05/21-13:23:51.256 fc4 Recovering log #16
-2025/05/21-13:23:51.259 fc4 Delete type=0 #16
-2025/05/21-13:23:51.260 fc4 Delete type=3 #15
+2025/05/22-18:18:30.263 3fcc Recovering log #20
+2025/05/22-18:18:30.263 3fcc Level-0 table #22: started
+2025/05/22-18:18:30.266 3fcc Level-0 table #22: 12836 bytes OK
+2025/05/22-18:18:30.270 3fcc Delete type=0 #20
+2025/05/22-18:18:30.270 3fcc Delete type=3 #19
