@@ -1,0 +1,121 @@
+{
+  "id": "coven-of-combat",
+  "title": "Coven of Combat",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "coven-of-combat-spells",
+      "label": "Coven of Combat - Spells",
+      "path": "packs/coven-of-combat",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "coven-of-combat-items",
+      "label": "Coven of Combat - Items",
+      "path": "packs/coven-of-combat",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "coven-of-combat-feats",
+      "label": "Coven of Combat - Feats",
+      "path": "packs/coven-of-combat",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "coven-of-combat-class-features",
+      "label": "Coven of Combat - Class Features",
+      "path": "packs/coven-of-combat",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "coven-of-combat-actions",
+      "label": "Coven of Combat - Actions",
+      "path": "packs/coven-of-combat",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "coven-of-combat-effects",
+      "label": "Coven of Combat - Effects",
+      "path": "packs/coven-of-combat-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Coven of Combat",
+      "sorting": "a",
+      "packs": [
+			"coven-of-combat-actions",
+			"coven-of-combat-effects",
+            "coven-of-combat-spells",
+            "coven-of-combat-items",
+            "coven-of-combat-feats",
+            "coven-of-combat-class-features"
+          ],
+      "folders": []
+    }
+  ],
+  "flags": {
+    "coven-of-combat": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "exploit": {
+            "label": "Burden",
+            "description": "Feats with the Burden trait grant a benefit whenever you have the Cursebound condition, in exchange for an additional penalty from the condition. An oracle can only ever have one feat with the Burden trait, as the additional curse is difficult to bear more than one of. Characters with the Oracle Multiclass Dedication can never take feats with the Burden trait. If you have the Extreme Curse class feature, you can select a second feat with the Burden trait."
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "Brian Brunson",
+	  "name": "Vasco Duarte"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/VascoRodriguesDuarte/coven-of-combat",
+  "manifest": "???",
+  "download": "???"
+}
